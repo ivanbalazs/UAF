@@ -3,3 +3,6 @@ gradle
 .gradle
 build
 .classes
+/.nb-gradle/
+fidouaf/nb-configuration.xml
+fidouaf/src/main/webapp/META-INF/
